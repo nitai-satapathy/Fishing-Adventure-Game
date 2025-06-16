@@ -26,6 +26,16 @@ In this game, the player starts with a basic fishing rod and can:
 
 ---
 
+## 👨‍💻 Group Members
+
+- **2311101 - Aadvik Mehrotra**
+- **2311139 - Gourav Pandey**
+- **2311163 - Nitai Satapathy**
+- **2311184 - Saksham Gupta**
+- **2311191 - Suryansh Sharma**
+
+---
+
 ## License
 
 This project is open-source and free to use for learning and practice purposes.
